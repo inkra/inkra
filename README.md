@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there! 👋
 I am [Inkra Andini Firmansyah](https://github.com/inkra)
 
 <!--
