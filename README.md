@@ -1,4 +1,4 @@
-<h1>### Hi there! 👋 I am [Inkra Andini Firmansyah](https://github.com/inkra) ### </h1>
+### Hi there! 👋 I am [Inkra Andini Firmansyah](https://github.com/inkra)### 
 
 <!--
 **inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
