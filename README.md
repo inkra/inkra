@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 https://www.instagram.com/inkraandini_/ <br>
 https://www.behance.net/inkraandini/
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/)
