@@ -1,4 +1,4 @@
-### Hi, I'm Inkra Andini! 👋
+### Hi there 👋 I am [Inkra Andini](https://inkra.github.io)
 
 <!--
 **inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
