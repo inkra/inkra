@@ -25,3 +25,5 @@ https://www.behance.net/inkraandini/
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-inkraandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkra-andini-8556311b6/)](https://www.linkedin.com/in/inkra-andini-8556311b6//) [![Gmail Badge](https://img.shields.io/badge/-inkra2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inkra2005@gmail.com)](mailto:inkra2005@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-https://github.com/inkra-orange?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/inkra)](https://github.com/inkra)
+
+[![Instagram Badge](https://img.shields.io/badge/-https://www.instagram.com/inkraandini_/-c14438?style=flat-square&logo=instagram&logoColor=white&link=mailto:inkra2005@gmail.com)](mailto:inkra2005@gmail.com)
