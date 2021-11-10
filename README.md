@@ -1,5 +1,6 @@
-
-## Hi there, I am [Inkra Andini Firmansyah!](https://github.com/inkra) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ##
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Inkra Andini! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <!--
 **inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
