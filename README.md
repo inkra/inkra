@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I am [Inkra Andini Firmansyah!](https://github.com/inkra) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ### 
 
 <!--
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 
 <br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
