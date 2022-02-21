@@ -4,6 +4,9 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Inkra Andini! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Inkra.Inkra)
+[![Github](https://img.shields.io/github/followers/Inkra?label=Follow&style=social)](https://github.com/Inkra) -->
+
 <!--
 **inkra/inkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/-inkraandini-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/inkraandini/)](https://www.behance.net/inkraandini/) [![Linkedin Badge](https://img.shields.io/badge/-inkraandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkra-andini-8556311b6/)](https://www.linkedin.com/in/inkra-andini-8556311b6//) [![Instagram Badge](https://img.shields.io/badge/-inkraandini__-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/inkraandini_/)](https://www.instagram.com/inkraandini_/) [![Gmail Badge](https://img.shields.io/badge/-inkra2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inkra2005@gmail.com)](mailto:inkra2005@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-inkra-orange?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/inkra)](https://github.com/inkra) 
   
 <br>
-<h3>🛠 Tech Stack<h3>
+<h3>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><h3>
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -41,6 +44,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
