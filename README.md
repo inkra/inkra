@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe Xd](https://img.shields.io/badge/-Xd-05122A?style=flat&logo=adobe-xd)
     </div>
     <br>
