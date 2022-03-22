@@ -4,7 +4,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Inkra Andini! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkra&label=Profile%20views&color=0e75b6&style=flat" alt="inkra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkra&label=Profile%20views&color=05122A&style=flat" alt="inkra" /> </p>
 
 ![followers](https://img.shields.io/github/followers/inkra?style=social)
 ![stars](https://img.shields.io/github/stars/inkra?style=social)
