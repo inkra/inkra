@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 💻 I'm a full stack web developer <br>
 🎨 I'm a self-taught UI designer <br>
 🏫 I'm a Engineering student at SMK Telkom Malang <br>
-🌐 You can see some of my projects on [my portfolio](inkraandini.editorx.io/portofolio) <br>
-📺 I make UI/UX content on [Instagram](https://www.instagram.com/uiux.inkra/) <br>
+🌐 You can see some of my projects on [my portfolio](https://inkraandini.editorx.io/portofolio) <br>
+📺 I make UI/UX content on [Instagram](https://www.instagram.com/uiux.inkra/) & [Behance](https://www.behance.net/inkraandini/projects) <br>
  </div>
  
  <br><br>
